@@ -24,7 +24,7 @@ de haber levantado primero el servidor que esta en el repositorio ProyectoRedesS
 
 
 El proyecto consta de una sola interfaz 
-1. La primera es para ingresar la ip del server
+1. Que es la que se encarga de registrar clientes y de enseñar la ip del servidor para poder vincular luego el cliente
 
 Construido con el id Neat Beans en lenguaje de programación java, se utilizo la libreria jdom al igual que los servidores de la base de datos de mysql que nos 
 brinda la Universidad de Costa Rica.
